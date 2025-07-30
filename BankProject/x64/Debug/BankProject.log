@@ -1,0 +1,8 @@
+﻿  BankProject.cpp
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(956,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(916,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(874,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(996,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\pc\source\repos\BankProject\BankProject.cpp(1023,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  BankProject.vcxproj -> C:\Users\pc\source\repos\BankProject\x64\Debug\BankProject.exe
